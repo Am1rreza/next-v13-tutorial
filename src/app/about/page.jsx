@@ -1,7 +1,7 @@
 const AboutPage = () => {
   return (
     <div>
-      <h1 className="font-bold text-3xl">About Traversy Media</h1>
+      <h1 className="font-bold text-3xl mb-2">About Traversy Media</h1>
       <p>
         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vero maiores,
         facilis, animi a laudantium tempore laboriosam libero, similique unde
